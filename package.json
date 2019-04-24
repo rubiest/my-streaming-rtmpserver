@@ -1,7 +1,7 @@
 {
   "name": "rtmpserver",
   "version": "1.0.0",
-  "description": "",
+  "description": "RTMP Server for MY Streaming platform",
   "main": "index.js",
   "scripts": {
     "start": "node app.js"
